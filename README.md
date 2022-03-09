@@ -1,5 +1,9 @@
 ## Jest Storybook Prac
 
+`yarn start` to start the project.
+`yarn storybook` to start the Storybook.
+`yarn test` to run tests.
+
 #### TODO
 
 -   Create tests for Button component
